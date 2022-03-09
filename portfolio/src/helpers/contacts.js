@@ -9,7 +9,7 @@ const contacts = [
   },
   {
     text: 'Currículo',
-    url: 'https://github.com/renatapnunes/portfolio',
+    url: 'https://github.com/renatapnunes/portfolio/blob/main/RenataNunes_curriculo.pdf',
   },
 ];
 
